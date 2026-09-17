@@ -24,6 +24,9 @@
 		<a href="https://www.nsf.gov" target="_blank" aria-label="<?= $LANG['F_VISIT_NSF']?>">
 			<img src="<?= $CLIENT_ROOT; ?>/images/layout/logo_nsf.gif" alt="<?= $LANG['F_NSF_LOGO'] ?>" />
 		</a>
+		<a href="https://www.blam-bl.de/" target="_blank" aria-label="BLAM">
+			<img src="<?= $CLIENT_ROOT; ?>/images/layout/blam_logo.png" alt="BLAM" />
+		</a>
 	</div>
 	<p>
 		This project made possible by U.S. National Science Foundation Awards:
