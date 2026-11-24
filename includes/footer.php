@@ -3,8 +3,8 @@
 	<?php
 		//include($SERVER_ROOT . '/accessibility/module.php');
 		?>
-		<a href="https://biokic.asu.edu" target="_blank" title="<?= $LANG['F_BIOKIC'] ?>" aria-label="Visit BioKIC website">
-			<img src="<?= $CLIENT_ROOT; ?>/images/layout/logo-asu-biokic.png"  alt="<?= $LANG['F_BIOKIC_LOGO'] ?>" />
+		<a href="https://biocollections.asu.edu/" target="_blank" title="ASU Biocollections" aria-label="Visit ASU Biocollections website">
+			<img src="<?= $CLIENT_ROOT; ?>/images/layout/asu_biocollections.png"  alt="ASU Biocollections" />
 		</a>
 		<a href="https://biodiversity.ku.edu/" target="_blank" aria-label="Visit KU BI website">
 			<img src="<?= $CLIENT_ROOT; ?>/images/layout/KU_BI.png" alt="KU BI logo" />
